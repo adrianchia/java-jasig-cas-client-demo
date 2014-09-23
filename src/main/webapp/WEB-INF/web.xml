@@ -29,12 +29,12 @@
 		</filter-class>
 		<init-param>
 			<param-name>casServerLoginUrl</param-name>
-			<param-value>https://freeuse1.casinthecloud.com/leleujgithub/login
+			<param-value>https://cas-achia.rhcloud.com/login
 			</param-value>
 		</init-param>
 		<init-param>
 			<param-name>serverName</param-name>
-			<param-value>http://localhost:8080</param-value>
+			<param-value>http://casdemo-achia.rhcloud.com</param-value>
 		</init-param>
 	</filter>
 	<filter-mapping>
@@ -50,12 +50,12 @@
 		</filter-class>
 		<init-param>
 			<param-name>casServerUrlPrefix</param-name>
-			<param-value>https://freeuse1.casinthecloud.com/leleujgithub/p3
+			<param-value>https://cas-achia.rhcloud.com
 			</param-value>
 		</init-param>
 		<init-param>
 			<param-name>serverName</param-name>
-			<param-value>http://localhost:8080</param-value>
+			<param-value>http://casdemo-achia.rhcloud.com</param-value>
 		</init-param>
 	</filter>
 	<filter-mapping>
